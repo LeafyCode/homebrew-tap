@@ -1,9 +1,9 @@
 # Written by the Kriyon release workflow (scripts/publish.mjs); edits here are replaced.
 cask "kriyon" do
-  version "0.14.0"
-  sha256 "78ad4af25b08d74f2fadbfbcceea03c6d5cab49678568525f4c5553dbfe0574d"
+  version "0.15.0"
+  sha256 "4fdc3aa115a4affeca7a039fb966c17595e4c69708bb4d0cfa647d1b20b6e04f"
 
-  url "https://github.com/LeafyCode/kriyon/releases/download/v0.14.0/Kriyon_0.14.0_universal.dmg",
+  url "https://github.com/LeafyCode/kriyon/releases/download/v0.15.0/Kriyon_0.15.0_universal.dmg",
       verified: "github.com/LeafyCode/kriyon/"
   name "Kriyon"
   desc "Desktop app for the Claude Code CLI, with a Changes view beside it"
